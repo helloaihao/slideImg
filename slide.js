@@ -2,10 +2,10 @@
 	$.fn.slideImg = function(options) {
 		//默认参数
 		var defaults = {
-			imgWidth: 200,					//图片宽度
-			imgHeight: 200,					//图片高度
-			idTop: 180,						//序号离顶部距离
-			idleft: 50,						//序号离左边距离
+			imgWidth: 800,					//图片宽度
+			imgHeight: 400,					//图片高度
+			idTop: 370,						//序号离顶部距离
+			idleft: 350,						//序号离左边距离
 			idWidth: 30,					//序号宽度
 			imgCount: 4,					//图片数量
 			changeSpeed: 100,				//切换速度
